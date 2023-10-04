@@ -1,7 +1,4 @@
 
-
-https://github.com/uc-chopranl/it3038c-scripts/assets/142918379/8c27adf6-5aeb-4e9f-84f0-89cca23c2b0b
-
 # Hello, Welcome to Neil Chopra's Project 1 for Scripting Language!
 -----------------------------------------------------------------
 ### Project 1: Ceaser Cipher Message Encoder
