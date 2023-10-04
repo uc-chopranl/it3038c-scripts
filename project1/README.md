@@ -1,3 +1,7 @@
+
+
+https://github.com/uc-chopranl/it3038c-scripts/assets/142918379/8c27adf6-5aeb-4e9f-84f0-89cca23c2b0b
+
 # Hello, Welcome to Neil Chopra's Project 1 for Scripting Language!
 -----------------------------------------------------------------
 ### Project 1: Ceaser Cipher Message Encoder
@@ -24,6 +28,8 @@ Please enter a message to encode: Hello World
 Rovvy Gybvn
 
 If you would like to quit, please type 'quit', if not, press enter to continue.
+
+![image](https://github.com/uc-chopranl/it3038c-scripts/assets/142918379/bf0715a0-30c5-48cf-9e78-49ed79a95a81)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
