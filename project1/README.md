@@ -25,10 +25,11 @@ Please enter a message to encode: Hello World
 Rovvy Gybvn
 
 If you would like to quit, please type 'quit', if not, press enter to continue.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+## Photo Example
 
 ![image](https://github.com/uc-chopranl/it3038c-scripts/assets/142918379/bf0715a0-30c5-48cf-9e78-49ed79a95a81)
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 During the creation of this project, I would refer to the GeeksForGeeks page regarding how to encode a message in Python. There were some similarities such as the way that the list was created, although the actual process of converting the original text to an encoded message using a for loop also implementing user input validation through a while loop was originally included in my version of this script and not what GeeksForGeeks had previously. I took some ideas of core fundamentals and coded them in a different way that can work successfully with no errors.
 
