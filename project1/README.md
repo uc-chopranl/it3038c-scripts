@@ -13,8 +13,9 @@ The script can be run simply through command-line interfaces by locating the dir
 
 Here is an example of what the script output should look like:
 
+## Example
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-## Example: 
+Example: 
 
 Welcome to the Ceaser Cipher Encoder
 
@@ -28,6 +29,6 @@ If you would like to quit, please type 'quit', if not, press enter to continue.
 
 During the creation of this project, I would refer to the GeeksForGeeks page regarding how to encode a message in Python. There were some similarities such as the way that the list was created, although the actual process of converting the original text to an encoded message using a for loop also implementing user input validation through a while loop was originally included in my version of this script and not what GeeksForGeeks had previously. I took some ideas of core fundamentals and coded them in a different way that can work successfully with no errors.
 
-Citec Content: 
+Cited Content: 
 
 GeeksForGeeks "How to Encode and Decode a Message using Python" - https://www.geeksforgeeks.org/how-to-encode-and-decode-a-message-using-python/
