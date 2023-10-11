@@ -26,7 +26,7 @@ pie_y = np.array([25, 50, 10, 5, 2, 3, 5])
 pie_labels = ["The Flash", "Doctor Strange", "Blue Beetle", "Silver Surfer", "The Thing", "Moon Knight", "Swamp Things"]
 
 #Display Pie Chart and Legend
-plt.pie(pie_y, labels = pie_labels
+plt.pie(pie_y, labels = pie_labels)
 
 #Position Legend next to Pie Graph and Include Legend Title
 plt.legend(bbox_to_anchor = (1.2, 0.9), loc = 'upper left', title = "List of Comic Book Characters: ")
