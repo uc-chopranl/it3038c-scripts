@@ -1,7 +1,7 @@
 
 # Hello, Welcome to Neil Chopra's Project 2 for Scripting Language!
 -----------------------------------------------------------------
-### Project 2: Ceasar Cipher Message Encoder with File Output 
+### Project 2: Ceasar Cipher Message Encoder with File Output and Randomized Shift-Value
 
 This project is a Ceasar Cipher message encoder with File Output Generation via User Input. The user will first be prompted to enter a message that they would like to have encoded, each letter in that message will transpose either forward or backward in the alphabet in a specific increment that is generated via the random Python module. 
 Once that message is encoded it will then display the newly created cipher message. Users will also have the ability to create a backup file which will display both the original and encoded message within a file of their choosing, there will also be an option to just export the encoded message via a file output of the user's choosing.
@@ -18,7 +18,7 @@ Here is an example of what the script output should look like:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Example: 
 
-Welcome to the Ceaser Cipher Encoder
+Welcome to the Ceasar Cipher Encoder
 
 Please enter a message to encode: Hello World
 
