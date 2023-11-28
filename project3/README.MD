@@ -43,12 +43,8 @@ If you would like to quit, please type 'quit', if not, press enter to continue.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ## Photo Example
-
-
-
 During the creation of this project, I would refer to the GeeksForGeeks page regarding how to encode a message in Python. There were some similarities such as the way that the list was created, although the actual process of converting the original text to an encoded message using a for loop also implementing user input validation through a while loop was originally included in my version of this script and not what GeeksForGeeks had previously. I took some ideas of core fundamentals and coded them in a different way that can work successfully with no errors.
 I also took some inspiration from W3Schools regarding how to output a file using Python. However, I made some further modifications that would allow user input to generate the type of file they would like to output, providing both a backup and an export option to display said encoded message.
-
 
 Cited Content: 
 
