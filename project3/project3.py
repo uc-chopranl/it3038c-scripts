@@ -12,7 +12,7 @@ print("Welcome to the Caesar Cipher Encoder")
 messages = []
 
 while True:
-    #while loop is created to allow user to encode as many messages as they want until they type 'quit'
+    #while loop is created to allow user to encode as many messages as they want until they type 'done'
     while True:
         #user input to gather messsage(s) to encode	
         user_message = input("Please enter a message to encode (type 'done' to finish): ")       
